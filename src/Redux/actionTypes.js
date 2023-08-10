@@ -1,0 +1,8 @@
+export const ADD_ING = 'ADD_INGREDIENT';
+export const REM_ING = 'REMOVE_INGREDIENT';
+
+export const AUTH_PN = 'AUTHENTICATION_PENDING';
+export const AUTH_OK = 'AUTHENTICATION_SUCCESS';
+export const AUTH_NO = 'AUTHENTICATION_ERROR';
+
+export const LOGOUT = 'LOGOUT';
